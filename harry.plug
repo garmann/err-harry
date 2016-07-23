@@ -1,0 +1,14 @@
+[Core]
+module = harry
+name = harry
+
+[Documentation]
+description = call in the harry
+
+[Python]
+version = 3
+
+[Errbot]
+min = 4.2.2
+max = 4.2.2
+
